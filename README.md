@@ -30,6 +30,9 @@ create src/components/home/Hero.tsx
 create src/components/home/FeaturesPreview.tsx
 create src/components/home/CommunitiesPreview.tsx
 create src/components/home/EventsPreview.tsx
+
+import sb1-sv7epm
+npm install dependencies 
 npm run dev 
 
 
